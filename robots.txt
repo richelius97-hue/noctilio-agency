@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://noctilio.com/sitemap.xml
